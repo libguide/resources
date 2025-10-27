@@ -1,1 +1,5 @@
-
+/* Bootstrap + small extras */
+body { background: #f8fafc; }
+.card { border-radius: 10px; }
+.table td, .table th { vertical-align: middle; }
+.small-muted { color: #6b7280; font-size: 0.9rem; }
